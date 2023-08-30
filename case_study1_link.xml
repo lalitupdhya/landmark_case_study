@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">*</str>
+    <str name="amp;indent">true</str>
+    <str name="amp;fq">publication_date:[2021-01-17T00:00:00Z TO 2021-01-19T23:59:59Z]</str>
+    <str name="amp;start">0</str>
+    <str name="amp;rows">100</str>
+    <str name="amp;wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="11908" start="0">
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_C_20171118_01of01.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2360</str>
+    <str name="_root_">2360</str>
+    <str name="id">2360</str>
+    <str name="file_name">FULINS_C_20171118_01of01.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292478144512</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_D_20171118_01of02.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2361</str>
+    <str name="_root_">2361</str>
+    <str name="id">2361</str>
+    <str name="file_name">FULINS_D_20171118_01of02.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193088</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_D_20171118_02of02.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2362</str>
+    <str name="_root_">2362</str>
+    <str name="id">2362</str>
+    <str name="file_name">FULINS_D_20171118_02of02.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193089</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_E_20171118_01of02.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2363</str>
+    <str name="_root_">2363</str>
+    <str name="id">2363</str>
+    <str name="file_name">FULINS_E_20171118_01of02.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193090</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_E_20171118_02of02.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2364</str>
+    <str name="_root_">2364</str>
+    <str name="id">2364</str>
+    <str name="file_name">FULINS_E_20171118_02of02.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193091</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_F_20171118_01of01.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2365</str>
+    <str name="_root_">2365</str>
+    <str name="id">2365</str>
+    <str name="file_name">FULINS_F_20171118_01of01.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193092</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_J_20171118_01of01.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2366</str>
+    <str name="_root_">2366</str>
+    <str name="id">2366</str>
+    <str name="file_name">FULINS_J_20171118_01of01.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193093</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_O_20171118_01of01.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2367</str>
+    <str name="_root_">2367</str>
+    <str name="id">2367</str>
+    <str name="file_name">FULINS_O_20171118_01of01.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193094</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_R_20171118_01of07.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2368</str>
+    <str name="_root_">2368</str>
+    <str name="id">2368</str>
+    <str name="file_name">FULINS_R_20171118_01of07.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193095</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+  <doc>
+    <str name="download_link">http://firds.esma.europa.eu/firds/FULINS_R_20171118_02of07.zip</str>
+    <date name="publication_date">2017-11-18T00:00:00Z</date>
+    <str name="published_instrument_file_id">2369</str>
+    <str name="_root_">2369</str>
+    <str name="id">2369</str>
+    <str name="file_name">FULINS_R_20171118_02of07.zip</str>
+    <str name="file_type">FULINS</str>
+    <long name="_version_">1775531292479193096</long>
+    <date name="timestamp">2023-08-29T03:09:51.613Z</date></doc>
+</result>
+</response>
