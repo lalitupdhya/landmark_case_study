@@ -1,0 +1,17 @@
+The response status code is 200
+The download link is http://firds.esma.europa.eu/firds/FULINS_C_20171118_01of01.zip
+The file type for the link is FULINS
+The response status code is 200
+The download link is http://firds.esma.europa.eu/firds/FULINS_C_20171118_01of01.zip
+The file type for the link is FULINS
+The namespace is {'': 'urn:iso:std:iso:20022:tech:xsd:DRAFT13auth.017.001.01', 'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
+Rows extracted are 57004
+*****************************
+
+The response status code is 200
+The download link is http://firds.esma.europa.eu/firds/FULINS_C_20171118_01of01.zip
+The file type for the link is FULINS
+The namespace is {'': 'urn:iso:std:iso:20022:tech:xsd:DRAFT13auth.017.001.01', 'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
+Rows extracted are 57004
+*****************************
+
